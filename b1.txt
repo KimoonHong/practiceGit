@@ -2,4 +2,4 @@ branch b1
 
 edit from master
 
-shared data
+shared data from master
