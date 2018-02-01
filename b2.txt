@@ -4,8 +4,12 @@ edit from p2
 
 edit from eclipse
 
+<<<<<<< HEAD
 <<<<<<< Upstream, based on eclipse
 eclipse branch
 =======
 edit from master
 >>>>>>> b18d7e8 edit from master
+=======
+edit from master
+>>>>>>> branch 'master' of https://github.com/KimoonHong/practiceGit.git
