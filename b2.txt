@@ -4,4 +4,8 @@ edit from p2
 
 edit from eclipse
 
+<<<<<<< Upstream, based on eclipse
 eclipse branch
+=======
+edit from master
+>>>>>>> b18d7e8 edit from master
