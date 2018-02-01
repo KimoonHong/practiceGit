@@ -3,3 +3,5 @@ branch b2
 edit from p2
 
 edit from eclipse
+
+edit from master
